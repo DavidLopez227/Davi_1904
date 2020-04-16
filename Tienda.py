@@ -1,3 +1,8 @@
+#Parte 2
+#Grupo 4
+#creado por: 
+#Luis David López Raquec
+
 import json
 base_de_datos = []
 
