@@ -1,3 +1,9 @@
+#Parte 1
+#Grupo 4
+#creado por: 
+#Luis David López Raquec
+
+
 import os
 from os import path
 import shutil
